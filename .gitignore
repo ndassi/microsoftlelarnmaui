@@ -1,0 +1,71 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Build directories
+bin/
+obj/
+
+# Generated files
+*.app
+*.ipa
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Visual Studio specific
+.vscode/
+.vs/
+.idea/
+*.psess
+*.testsettings
+*.vsmdi
+
+# JetBrains Rider specific
+.idea/
+*.iml
+
+# Temporary files
+~$*
+
+# Xamarin/MAUI specific
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Environment and secrets
+.env
+.env.*
+
+# Code coverage
+*.coverage
+*.coveragexml
+*.log
+
+# Distribution bundles
+*.crash
+*.dmp
+
+# Package directories
+packages/
+nuget.exe
+*.nupkg
